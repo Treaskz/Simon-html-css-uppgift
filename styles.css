@@ -1,0 +1,75 @@
+body {
+  max-width: 1920px;
+  margin: auto;
+    background-color: white;
+  }
+  .nav {
+    height: 76px;
+    flex: auto;
+    text-align: center;
+  }
+  .icon {
+float: left;
+  }
+  .features{
+    float: left;
+    justify-self: center;
+  }
+  .nav-btn {
+    float: right;
+  }
+  .ost{
+  display: flex;
+  }
+  .mobil{
+    margin-top: 116px;
+  }
+  .switch {
+    float: right;
+  }
+  .title{
+    margin-left: 290px;
+    margin-top: 233px;
+    width: 526px;
+    height: 328px;
+  }
+
+  .title p {
+  margin-top: 24px;
+  }
+  .title-img{
+    margin-top: 48px;
+  }
+  h1 {
+    font-size: 56px;
+  }
+.div-1 {
+  height: 876px;
+  background: linear-gradient(-15.848deg, rgba(99, 102, 241, 10%) 0%, rgba(218, 70, 239, 5%) 42%, rgba(230, 163, 246, 6%) 63%, rgba(241, 244, 253, 7%) 83%);}
+.div-2 {
+  text-align: center;
+}
+.div-3 {
+  background: #F3F6FF;
+  text-align: center;
+}
+.div-4 {
+  text-align: center;
+}
+.div-5 {
+  text-align: center;
+}
+.div-6 {
+  text-align: center;
+}
+.login {
+  background-color: #6366F1;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+footer {
+  text-align: center;
+}
